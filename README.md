@@ -1,4 +1,3 @@
 # GoogleBooksReadingList
 
-
-https://ramblekb.github.io/GoogleBooksReadingList/
+https://readingapi.herokuapp.com/
